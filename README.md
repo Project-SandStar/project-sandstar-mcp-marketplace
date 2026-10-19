@@ -5,7 +5,7 @@ this file only points at them.
 
 | Plugin | Server | Source |
 |---|---|---|
-| `fantom-mcp` | Fantom MCP server, `:3848` | `mcpfantom` repo, `claudePlugin/dist` |
+| `fantom-mcp` | Fantom MCP server, `:3848` | `FantomMcpServer` repo, `claudePlugin/dist` |
 | `axon-mcp` | Axon MCP server, `:3847` | `AxonMcpServer` repo, `claudePlugin/dist` |
 
 ## Install
