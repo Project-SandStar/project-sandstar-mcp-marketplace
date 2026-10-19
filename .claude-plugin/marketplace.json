@@ -1,10 +1,10 @@
 {
-  "name": "sandstar",
+  "name": "project-sandstar-mcp",
   "owner": {
     "name": "Project Sandstar"
   },
   "metadata": {
-    "description": "Project Sandstar Claude Code plugins: Fantom MCP and Axon MCP."
+    "description": "Project Sandstar MCP marketplace: Claude Code plugins for the Fantom MCP and Axon MCP servers."
   },
   "plugins": [
     {
